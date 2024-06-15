@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'RedHatDisplay-Light';
+    src: url(./RedHatDisplay-Light.woff2) format('woff2');
+  }
+body {
+    background-attachment: fixed;
+    background-image: url(https://4kwallpapers.com/images/wallpapers/mount-fuji-volcano-japan-river-reflection-boat-couple-5k-1920x1200-5440.jpg);
+}
